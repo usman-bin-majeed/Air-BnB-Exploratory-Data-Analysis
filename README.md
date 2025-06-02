@@ -83,7 +83,7 @@ Feel free to explore the code, provide feedback, and contribute to the project!
 
 ## 📞 Contact
 
-For any questions or suggestions, please feel free to contact me at fa23-bds-042@isbstudent.comsats.edu.pk
+For any questions or suggestions, please feel free to contact me at u4usmanmajeed313@gmail.com
 ---
 
 **Hashtags**: #AirbnbEDA #DataScience #Python #Pandas #Matplotlib #Seaborn #DataAnalysis #DataVisualization #EDA #MachineLearning #OpenSource #GitHub
